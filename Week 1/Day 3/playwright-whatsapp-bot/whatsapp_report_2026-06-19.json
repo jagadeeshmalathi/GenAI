@@ -1,0 +1,103 @@
+{
+  "assignment": "WhatsApp Message Sender + Smart Data Extractor",
+  "date": "2026-06-19",
+  "started_at": "2026-06-19T19:35:16",
+  "finished_at": "2026-06-19T19:38:19",
+  "dry_run": false,
+  "total_contacts": 7,
+  "sent_count": 6,
+  "failed_count": 1,
+  "results": [
+    {
+      "name": "Jagadeesh",
+      "phone": "+12487226754",
+      "search_value": "+12487226754",
+      "message_template": "Hello {name}, this is a dummy test message for my Playwright assignment.",
+      "personalized_message": "Hello Jagadeesh, this is a dummy test message for my Playwright assignment.",
+      "status": "Sent",
+      "error": "",
+      "screenshot": "screenshots\\2026-06-19\\Jagadeesh_193606.png",
+      "last_3_incoming_messages": [],
+      "send_confirmation": "Sent text visible",
+      "processed_at": "2026-06-19T19:35:25"
+    },
+    {
+      "name": "Raj Shekar",
+      "phone": "+447767585819",
+      "search_value": "+447767585819",
+      "message_template": "Hi {name}, I am testing a WhatsApp automation project. Please ignore this message.",
+      "personalized_message": "Hi Raj Shekar, I am testing a WhatsApp automation project. Please ignore this message.",
+      "status": "Sent",
+      "error": "",
+      "screenshot": "screenshots\\2026-06-19\\Raj_Shekar_193625.png",
+      "last_3_incoming_messages": [],
+      "send_confirmation": "Sent text visible",
+      "processed_at": "2026-06-19T19:36:10"
+    },
+    {
+      "name": "Harish",
+      "phone": "+918553595200",
+      "search_value": "+918553595200",
+      "message_template": "Hello {name}, hope you are doing well. This is only an assignment test.",
+      "personalized_message": "Hello Harish, hope you are doing well. This is only an assignment test.",
+      "status": "Sent",
+      "error": "",
+      "screenshot": "screenshots\\2026-06-19\\Harish_193643.png",
+      "last_3_incoming_messages": [],
+      "send_confirmation": "Sent text visible",
+      "processed_at": "2026-06-19T19:36:28"
+    },
+    {
+      "name": "Amma",
+      "phone": "+918050832876",
+      "search_value": "+918050832876",
+      "message_template": "Hi {name}, this is a sample personalized message sent using Playwright.",
+      "personalized_message": "Hi Amma, this is a sample personalized message sent using Playwright.",
+      "status": "Sent",
+      "error": "",
+      "screenshot": "screenshots\\2026-06-19\\Amma_193701.png",
+      "last_3_incoming_messages": [],
+      "send_confirmation": "Sent text visible",
+      "processed_at": "2026-06-19T19:36:47"
+    },
+    {
+      "name": "Dhanush",
+      "phone": "+918147603824",
+      "search_value": "+918147603824",
+      "message_template": "Hi {name}, this is a sample personalized message sent using Playwright.",
+      "personalized_message": "Hi Dhanush, this is a sample personalized message sent using Playwright.",
+      "status": "Sent",
+      "error": "",
+      "screenshot": "screenshots\\2026-06-19\\Dhanush_193720.png",
+      "last_3_incoming_messages": [],
+      "send_confirmation": "Sent text visible",
+      "processed_at": "2026-06-19T19:37:05"
+    },
+    {
+      "name": "Thiru Bro",
+      "phone": "+916380654780",
+      "search_value": "+916380654780",
+      "message_template": "Hi {name}, this is a sample personalized message sent using Playwright.",
+      "personalized_message": "Hi Thiru Bro, this is a sample personalized message sent using Playwright.",
+      "status": "Sent",
+      "error": "",
+      "screenshot": "screenshots\\2026-06-19\\Thiru_Bro_193746.png",
+      "last_3_incoming_messages": [],
+      "send_confirmation": "Sent text visible",
+      "processed_at": "2026-06-19T19:37:25"
+    },
+    {
+      "name": "Babai",
+      "phone": "+15853955370",
+      "search_value": "+15853955370",
+      "message_template": "Hi {name}, this is a sample personalized message sent using Playwright.",
+      "personalized_message": "Hi Babai, this is a sample personalized message sent using Playwright.",
+      "status": "Failed",
+      "error": "Could not open contact by search (Contact not found in WhatsApp search.) or phone URL (This phone number is not registered on WhatsApp.).",
+      "screenshot": "screenshots\\2026-06-19\\ERROR_Babai_193814.png",
+      "last_3_incoming_messages": [],
+      "send_confirmation": "",
+      "processed_at": "2026-06-19T19:37:50"
+    }
+  ]
+}
